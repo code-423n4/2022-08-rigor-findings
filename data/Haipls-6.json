@@ -1,0 +1,9 @@
+{
+  "contest": 151,
+  "handle": "Haipls",
+  "address": "0xdde5f40e8e26b7fff4ecc01b8f7f409e4dcc8e37",
+  "risk": "3",
+  "title": "Incorrect initialization of smart contracts with Access Control issue",
+  "issueId": 6,
+  "issueUrl": "https://github.com/code-423n4/2022-08-rigor-findings/issues/6"
+}
