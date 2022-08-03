@@ -1,0 +1,9 @@
+{
+  "contest": 151,
+  "handle": "Haipls",
+  "address": "0xdde5f40e8e26b7fff4ecc01b8f7f409e4dcc8e37",
+  "risk": "3",
+  "title": "An attacker can use data and signature (for update task hash) from one project to substitute task hash for another project with the same builder/contractor",
+  "issueId": 31,
+  "issueUrl": "https://github.com/code-423n4/2022-08-rigor-findings/issues/31"
+}
