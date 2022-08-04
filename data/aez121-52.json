@@ -1,0 +1,9 @@
+{
+  "contest": 151,
+  "handle": "aez121",
+  "address": "0x68ddA5A26E7d2FBb971A12b37Ffbb86c29f3bfB5",
+  "risk": "2",
+  "title": "Not checking the if project has a task",
+  "issueId": 52,
+  "issueUrl": "https://github.com/code-423n4/2022-08-rigor-findings/issues/52"
+}
