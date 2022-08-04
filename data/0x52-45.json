@@ -1,0 +1,9 @@
+{
+  "contest": 151,
+  "handle": "0x52",
+  "address": "0x522dffc539c264a8f7e0b91102e899b33f4dabc3",
+  "risk": "2",
+  "title": "Removing tasks is impossible leading to is overly complicated and expensive workarounds",
+  "issueId": 45,
+  "issueUrl": "https://github.com/code-423n4/2022-08-rigor-findings/issues/45"
+}
