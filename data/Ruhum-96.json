@@ -1,0 +1,9 @@
+{
+  "contest": 151,
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333f81993a1edcfec6821a3ec563ea06",
+  "risk": "2",
+  "title": "`HomeFi.lenderFee` isn't validated which can cause a potential underflow",
+  "issueId": 96,
+  "issueUrl": "https://github.com/code-423n4/2022-08-rigor-findings/issues/96"
+}
