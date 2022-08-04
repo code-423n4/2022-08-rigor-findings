@@ -1,0 +1,9 @@
+{
+  "contest": 151,
+  "handle": "bin2chen",
+  "address": "0x4bb429d6c90d6449c2912b4faa687c7b4a6ace00",
+  "risk": "3",
+  "title": "escrow() signature is reusable and can be called repeatedly without permission to reduce debt",
+  "issueId": 48,
+  "issueUrl": "https://github.com/code-423n4/2022-08-rigor-findings/issues/48"
+}
