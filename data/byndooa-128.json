@@ -1,0 +1,9 @@
+{
+  "contest": 151,
+  "handle": "byndooa",
+  "address": "0x94bce1057e95d61a9754a238cddbda0989787154",
+  "risk": "3",
+  "title": "If past subcontractor has been kicked, he can steal funds from new subcontractor for task completed.",
+  "issueId": 128,
+  "issueUrl": "https://github.com/code-423n4/2022-08-rigor-findings/issues/128"
+}
