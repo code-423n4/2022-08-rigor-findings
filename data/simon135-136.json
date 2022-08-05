@@ -1,0 +1,9 @@
+{
+  "contest": 151,
+  "handle": "simon135",
+  "address": "0x7bfbabda21beebb17e284901bfc41e942f8128c8",
+  "risk": "2",
+  "title": "If builder is  replaying the lender not so long after getting funded the builder can get out of paying intrest  on borrowed funds ",
+  "issueId": 136,
+  "issueUrl": "https://github.com/code-423n4/2022-08-rigor-findings/issues/136"
+}
