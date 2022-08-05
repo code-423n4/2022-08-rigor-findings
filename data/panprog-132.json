@@ -1,0 +1,9 @@
+{
+  "contest": 151,
+  "handle": "panprog",
+  "address": "0xf47974cad15c135445509ac670f531bbb9db5907",
+  "risk": "3",
+  "title": "changeOrder can change completed tasks to inactive, which can be used to steal project money",
+  "issueId": 132,
+  "issueUrl": "https://github.com/code-423n4/2022-08-rigor-findings/issues/132"
+}
