@@ -1,0 +1,9 @@
+{
+  "contest": 151,
+  "handle": "Bnke0x0",
+  "address": "0x1b8eaf5900941cfcc8323529040a48e129a28905",
+  "risk": "2",
+  "title": "User's may accidentally overpay in `register()` / `renew()` and the excess will be paid to the vault creator",
+  "issueId": 113,
+  "issueUrl": "https://github.com/code-423n4/2022-08-rigor-findings/issues/113"
+}
