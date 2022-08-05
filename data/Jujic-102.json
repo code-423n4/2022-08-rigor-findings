@@ -1,0 +1,9 @@
+{
+  "contest": 151,
+  "handle": "Jujic",
+  "address": "0x6e1da38f9d9d87ce228234a570d992d4db294fa1",
+  "risk": "2",
+  "title": "no use of safeMint() as safe guard for users",
+  "issueId": 102,
+  "issueUrl": "https://github.com/code-423n4/2022-08-rigor-findings/issues/102"
+}
