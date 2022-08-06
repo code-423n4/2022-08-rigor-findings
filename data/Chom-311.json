@@ -1,0 +1,9 @@
+{
+  "contest": 151,
+  "handle": "Chom",
+  "address": "0xc4c459668fb29833d7dee997d7d347e2634c9cef",
+  "risk": "2",
+  "title": "Using outdated @openzeppelin/contracts-upgradeable@4.4.2 which has many vulnerabilities",
+  "issueId": 311,
+  "issueUrl": "https://github.com/code-423n4/2022-08-rigor-findings/issues/311"
+}
