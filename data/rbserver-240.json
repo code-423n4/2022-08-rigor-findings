@@ -1,0 +1,9 @@
+{
+  "contest": 151,
+  "handle": "rbserver",
+  "address": "0x4bd9605a3e546f3400df2c2be7b1c775aeea56bd",
+  "risk": "2",
+  "title": "Admin can pause Community functionalities unexpectedly to block planned user interactions, including loan repayments",
+  "issueId": 240,
+  "issueUrl": "https://github.com/code-423n4/2022-08-rigor-findings/issues/240"
+}
