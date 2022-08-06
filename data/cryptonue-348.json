@@ -1,0 +1,9 @@
+{
+  "contest": 151,
+  "handle": "cryptonue",
+  "address": "0xabcde0360abcba45098125e55437b005ae5df46f",
+  "risk": "2",
+  "title": "It should not submit a project with no total budget. Requires at least one task with cost > 0",
+  "issueId": 348,
+  "issueUrl": "https://github.com/code-423n4/2022-08-rigor-findings/issues/348"
+}
