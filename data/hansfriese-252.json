@@ -1,0 +1,9 @@
+{
+  "contest": 151,
+  "handle": "hansfriese",
+  "address": "0xf2dcb1d3b7091dcf2ce87ad115377c108ebe6dd4",
+  "risk": "2",
+  "title": "The owner of HomeFi may abuse the `lenderFee` to claim almost 100% of the funds.",
+  "issueId": 252,
+  "issueUrl": "https://github.com/code-423n4/2022-08-rigor-findings/issues/252"
+}
