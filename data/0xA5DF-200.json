@@ -1,0 +1,9 @@
+{
+  "contest": 151,
+  "handle": "0xA5DF",
+  "address": "0x04dfb55f65e89aaf26bf198ed87fb77a8a2b7260",
+  "risk": "2",
+  "title": "Any user can raise dispute when there's no contractor, since there's no check if signature recovery has failed",
+  "issueId": 200,
+  "issueUrl": "https://github.com/code-423n4/2022-08-rigor-findings/issues/200"
+}
