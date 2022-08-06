@@ -1,0 +1,9 @@
+{
+  "contest": 151,
+  "handle": "rbserver",
+  "address": "0x4bd9605a3e546f3400df2c2be7b1c775aeea56bd",
+  "risk": "3",
+  "title": "Unclaimed interest is 0 within 24 hours since the last time that loan is lent or interest is earned for project",
+  "issueId": 286,
+  "issueUrl": "https://github.com/code-423n4/2022-08-rigor-findings/issues/286"
+}
