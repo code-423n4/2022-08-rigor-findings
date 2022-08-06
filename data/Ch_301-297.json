@@ -1,0 +1,9 @@
+{
+  "contest": 151,
+  "handle": "Ch_301",
+  "address": "0x8040fd7b86966bd49e1b721d2ed264180aa15814",
+  "risk": "2",
+  "title": "the customers can’t just trust the `admin`",
+  "issueId": 297,
+  "issueUrl": "https://github.com/code-423n4/2022-08-rigor-findings/issues/297"
+}
