@@ -1,0 +1,9 @@
+{
+  "contest": 151,
+  "handle": "Chom",
+  "address": "0xc4c459668fb29833d7dee997d7d347e2634c9cef",
+  "risk": "2",
+  "title": "projectCost may be reverted due to out of gas problem if having too many tasks. lendToProject and recoverTokens may always revert because of this.",
+  "issueId": 294,
+  "issueUrl": "https://github.com/code-423n4/2022-08-rigor-findings/issues/294"
+}
