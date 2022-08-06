@@ -1,0 +1,9 @@
+{
+  "contest": 151,
+  "handle": "rbserver",
+  "address": "0x4bd9605a3e546f3400df2c2be7b1c775aeea56bd",
+  "risk": "2",
+  "title": "Someone, who owns project NFT from original builder, does not become project builder",
+  "issueId": 229,
+  "issueUrl": "https://github.com/code-423n4/2022-08-rigor-findings/issues/229"
+}
