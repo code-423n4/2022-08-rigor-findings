@@ -1,0 +1,9 @@
+{
+  "contest": 151,
+  "handle": "rbserver",
+  "address": "0x4bd9605a3e546f3400df2c2be7b1c775aeea56bd",
+  "risk": "3",
+  "title": "apr is replaced with new value when project is published again to the same community",
+  "issueId": 201,
+  "issueUrl": "https://github.com/code-423n4/2022-08-rigor-findings/issues/201"
+}
