@@ -1,0 +1,9 @@
+{
+  "contest": 151,
+  "handle": "poirots",
+  "address": "0x59A9fFfEc1C84DF01Cdc3323008DF324594877e6",
+  "risk": "2",
+  "title": "Single-step ownership change is dangerous",
+  "issueId": 393,
+  "issueUrl": "https://github.com/code-423n4/2022-08-rigor-findings/issues/393"
+}
