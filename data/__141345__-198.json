@@ -1,0 +1,9 @@
+{
+  "contest": 151,
+  "handle": "__141345__",
+  "address": "0xcba430d52c773bd376fed4edbf46b2b045141345",
+  "risk": "2",
+  "title": "`lenderFee` can be arbitrarily set",
+  "issueId": 198,
+  "issueUrl": "https://github.com/code-423n4/2022-08-rigor-findings/issues/198"
+}
