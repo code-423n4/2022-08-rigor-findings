@@ -1,0 +1,9 @@
+{
+  "contest": 151,
+  "handle": "hansfriese",
+  "address": "0xf2dcb1d3b7091dcf2ce87ad115377c108ebe6dd4",
+  "risk": "2",
+  "title": "Project.addTasks() wouldn't work properly when it's called from disputes contract.",
+  "issueId": 233,
+  "issueUrl": "https://github.com/code-423n4/2022-08-rigor-findings/issues/233"
+}
