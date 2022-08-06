@@ -1,0 +1,9 @@
+{
+  "contest": 151,
+  "handle": "rbserver",
+  "address": "0x4bd9605a3e546f3400df2c2be7b1c775aeea56bd",
+  "risk": "2",
+  "title": "Mechanisms are lacking for enforcing or incentivizing builders to repay community owners",
+  "issueId": 183,
+  "issueUrl": "https://github.com/code-423n4/2022-08-rigor-findings/issues/183"
+}
