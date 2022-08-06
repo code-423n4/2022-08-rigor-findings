@@ -1,0 +1,9 @@
+{
+  "contest": 151,
+  "handle": "rbserver",
+  "address": "0x4bd9605a3e546f3400df2c2be7b1c775aeea56bd",
+  "risk": "2",
+  "title": "Community owner cannot lend a positive amount to project with lendingNeeded being not set",
+  "issueId": 216,
+  "issueUrl": "https://github.com/code-423n4/2022-08-rigor-findings/issues/216"
+}
