@@ -1,0 +1,9 @@
+{
+  "contest": 151,
+  "handle": "sseefried",
+  "address": "0x033e21b02373489ff2f7a2c2f1b109a1bc6158ad",
+  "risk": "2",
+  "title": "There is too much trust placed in the meta-transaction forwarder",
+  "issueId": 165,
+  "issueUrl": "https://github.com/code-423n4/2022-08-rigor-findings/issues/165"
+}
