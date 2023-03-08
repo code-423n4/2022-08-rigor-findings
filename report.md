@@ -1,3 +1,11 @@
+---
+sponsor: "Rigor Protocol"
+slug: "2022-08-rigor"
+date: "2022-09-12"  # the date this report is published to the C4 website
+title: "Rigor Protocol contest"
+findings: "https://github.com/code-423n4/2022-08-rigor-findings/issues"
+contest: 151
+---
 
 # Overview
 
